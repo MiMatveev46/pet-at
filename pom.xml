@@ -9,6 +9,8 @@
     <version>1.0.0</version>
     <modules>
         <module>at-common</module>
+        <module>at-project</module>
+        <module>at-bdd-cucumber</module>
     </modules>
     <packaging>pom</packaging>
 
